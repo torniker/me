@@ -1,4 +1,4 @@
-baseURL = "https://torniker.github.io/"
+baseURL = "https://tornike.me/"
 languageCode = "en-us"
 title = "Tornike Razmadze"
 theme = "coder-portfolio"
@@ -18,7 +18,7 @@ theme = "coder-portfolio"
 
     snsShare = false
 
-    thumbnail = "images/tn.png"
+    thumbnail = "images/avatar.jpg"
 
     # Custom CSS
     custom_css = ["https://fonts.googleapis.com/css?family=B612+Mono|Dancing+Script|Fira+Mono|Nova+Mono|Ubuntu+Mono", "css/custom.css"]
