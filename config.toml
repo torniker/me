@@ -2,6 +2,7 @@ baseURL = "https://tornike.me/"
 languageCode = "en-us"
 title = "Tornike Razmadze"
 theme = "coder-portfolio"
+googleAnalytics = "UA-4951070-18"
 
 [params]
     author = "Tornike Razmadze"

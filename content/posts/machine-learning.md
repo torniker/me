@@ -2,7 +2,7 @@
 date = "2016-05-06"
 title = "Machine Learning (Coursera)"
 tags = [
-    "machine learngin",
+    "machine learning",
     "coursera",
 ]
 categories = []
