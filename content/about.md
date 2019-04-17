@@ -74,8 +74,6 @@ I've Worked in several web development companies. Created several custom made co
 > HTML / CSS,
 > SASS / LESS,
 
-Learn more on my [GitHub](https://github.com/torniker).
-
 #### Languages
 
 > Georgian (Native),
