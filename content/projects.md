@@ -13,11 +13,7 @@ MyDoc is a SaaS platform, It's a tool for building telemedical platform on top o
 
 Features:
 
-> Symptom Checker,
-> Health History Management,
-> AI Based Diagnosis,
-> Medical Document Sharing,
-> Text/Video/Audio Chat
+> Symptom Checker, Health History Management, AI Based Diagnosis, Medical Document Sharing, Text/Video/Audio Chat
 
 Built using:
 

@@ -5,7 +5,7 @@ thumbnail = "images/tn.png"
 description = "about Tornike Razmadze "
 +++
 
-Software Engineer, Developer, Go (golang) enthusiast... Always in search of something new and eager to study and become a better professional. Fullstack Developer. Enjoy sharing information and experience.
+Software Engineer, Developer, Go enthusiast (Gopher)...
 
 #### More Then 15 Years of Working Experience
 
@@ -13,7 +13,7 @@ My first comupter was IBM XT 286. I was seven when we got one. After that moment
 
 #### Worked on More Then 200 Projects
 
-Worked in several web development companies. Created several custom made content management systems and worked with open source ones. Grown from working on simple projects by myself to being a team leader in the biggest web development company in Georgia.
+I've Worked in several web development companies. Created several custom made content management systems and worked with open source ones. Grown from working on simple projects by myself to being a team leader in the biggest web development company in Georgia.
 
 ## Work Experience
 
