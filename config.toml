@@ -6,8 +6,8 @@ googleAnalytics = "UA-4951070-18"
 
 [params]
     author = "Tornike Razmadze"
-    description = "Developer since 2001. Always in search of something new and eager to study and become a better professional. Fullstack Developer. Enjoy sharing information and experience. Think that is a way of learning something new."
-    keywords = "blog,developer,personal"
+    description = "Software Engineer, Developer, Go (golang) enthusiast"
+    keywords = "blog,developer,personal,gopher,software,engineer,go,golang"
     info = "Software Engineer, Developer, Go (golang) enthusiast"
     avatarurl = "images/avatar.jpg"
     footercontent = "Enter a text here."
@@ -55,8 +55,8 @@ googleAnalytics = "UA-4951070-18"
         # You can configure the theme parameter for each language.
         [languages.en.params]
             author = "Tornike Razmadze"
-            description = "Developer since 2001. Always in search of something new and eager to study and become a better professional. Fullstack Developer. Enjoy sharing information and experience. Think that is a way of learning something new."
-            keywords = "blog,developer,personal"
+            description = "Software Engineer, Developer, Go (golang) enthusiast"
+            keywords = "blog,developer,personal,gopher,software,engineer,go,golang"
             info = "Software Engineer - Gopher"
             avatarurl = "images/avatar.jpg"
 
