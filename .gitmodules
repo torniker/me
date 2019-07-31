@@ -2,3 +2,6 @@
 	path = public
 	url = git@github.com:torniker/torniker.github.io.git
 	branch = master
+[submodule "themes/coder-portfolio"]
+	path = themes/coder-portfolio
+	url = git@github.com:torniker/hugo-coder-portfolio.git
