@@ -9,11 +9,11 @@ Software Engineer, Developer, Go enthusiast (Gopher).
 
 #### More Then 15 Years of Working Experience
 
-> My first computer was IBM XT 286. I was seven when we got one. After that moment I wanted to know everything about computers. My father did some coding back then and I was sitting next to him watching all those strange combination of words and symbols and I knew that I wanted to learn it. From that moment I am learning...
+> My first computer was IBM XT 286. I was seven when we got one. After that moment I wanted to know everything about computers. My father did some coding back then and I was sitting next to him watching all those strange combinations of "words" and symbols and I knew that I wanted to learn it. From that moment I am learning...
 
 #### Worked on More Then 200 Projects
 
-> I've Worked in several web development companies. Created several custom made content management systems and worked with open source ones. Grown from working on simple projects by myself to being a team leader in the biggest web development company in Georgia.
+> I've Worked in several web development companies. Created couple custom made content management systems and worked with open source ones. Grown from working on simple projects by myself to being a team leader in the biggest web development company in Georgia.
 
 ## Work Experience
 
@@ -24,11 +24,11 @@ Software Engineer, Developer, Go enthusiast (Gopher).
 * Head of Development (2018 - 2019)
 
 > #### Despite my position I still write code
-> I write code 3-4 hours a day. Mostly I work on project architecture after the project is on the correct direction I gradually move to just reviewing code, but I write code for most of new projects to get it to MVP.
+> I write code 3-4 hours a day. Mostly I work on project architecture, after the project is on the right tracks I gradually move to just reviewing code, but I write code for most of new projects to get it to MVP.
 
 > I Manage team of 20 members mostly developers, including frontend, backend and database developers.
 
-> Thinks I've done / doing:
+> Things I've done / am doing:
 
 > * Started using agile methodologies specifically SCRUM to manage the tasks and work timeline
 > * Introduced Go as a primary development language
@@ -55,8 +55,6 @@ Software Engineer, Developer, Go enthusiast (Gopher).
 > #### Place where I studied a lot
 > At Shift I worked in a remote team (from Georgia). I started using Go and learned a lot. I also worked on Salesforce (Apex). My Responsibilities included: Automation of company’s internal business processes, Code Review.
 
-> I had free time to study, because most of the high priority tasks were assign to the team in SF.
-
 ## ITDC
 > http://itdc.ge
 #### Positions
@@ -76,7 +74,7 @@ Software Engineer, Developer, Go enthusiast (Gopher).
 
 > In ITDC I did lots of experiments, I've tried different tools and techniques, some of them were successful some were not, but either way I learned a lot.
 
-> Here I started to share the information by establishing ITDC Training Center and it was one of our major sources for finding new developers. The idea and the execution of the training center was mine and it was quite successful.
+> Here I started to sharing the knowledge by establishing ITDC Training Center and it was one of our major sources for finding new developers. The idea and the execution of the training center was mine and it was quite successful.
 
 ## GeoDNA
 > http://oceandna.ge
@@ -86,7 +84,7 @@ Software Engineer, Developer, Go enthusiast (Gopher).
 > #### Travel and lots of friends all over Europe
 > Designated National Agency operates within the Centre of Relations with UNESCO of the Ivane Javakhishvili Tbilisi State University. Here we are involved in several international projects, such as: SeaDataNet, EMODNET, PERSEUS etc.
 
-> Most of projects aim to gather and disseminate oceanographic data. GeoDNA's missions are to collect, acquire, processing, store and disseminate the marine data and metadata sampled by Georgian institutes and agencies, as well as to provide graduate level education in marine sciences.
+> Most of projects aim to gather and disseminate oceanographic data. GeoDNA's missions are to collect, acquire, process, store and disseminate the marine data and metadata sampled by Georgian institutes and agencies, as well as to provide graduate level education in marine sciences.
 
 > As a key technical person most of data processing, storing, formating and dissemination of marine data and metadata is my responsibility.
 
@@ -111,11 +109,11 @@ Software Engineer, Developer, Go enthusiast (Gopher).
 > SQL,
 > NoSQL,
 > HTML / CSS,
-> SASS / LESS,
+> SASS / LESS
 
 #### Languages
 
 > Georgian (Native),
 > English (Fluent),
-> Russian (Fluent),
+> Russian (Fluent)
 
