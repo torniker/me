@@ -17,8 +17,8 @@ Software Engineer, Developer, Go enthusiast (Gopher).
 
 ## Work Experience
 
-### FortuneJack
-> http://fortunejack.com
+### Nexus Group Enterprises
+> Nexus Group Enterprises NV’ manages digital currency casino brand http://fortunejack.com; FortuneJack was established in 2014 and nowadays represents one of the leading gaming brands in the industry of Bitcoin gaming across the Globe
 #### Positions
 * Head of ITBO (2019 - present)
 * Head of Development (2018 - 2019)
@@ -36,7 +36,7 @@ Software Engineer, Developer, Go enthusiast (Gopher).
 > * Introduced code reviews (I do it myself daily)
 
 ## MyDoc
-> https://mydoc.ge
+> MyDoc.chat (https://mydoc.chat) is an Integrated Platform with Artificial Intelligence (AI) capabilities that enables patients to digitally communicate with Medical Doctors.
 #### Position:
 * CTO / Co-Founder (2017 - Present)
 
@@ -48,7 +48,7 @@ Software Engineer, Developer, Go enthusiast (Gopher).
 > After a year we managed to get first developer and my responsibilities changed a bit. But till this day I do code reviews, work with development team closely on defining task and deciding right technical solutions.
 
 ## Shift Technologies
-> https://shift.com
+> Shift (https://shift.com) uses the power of technology to help users buy and sell cars
 #### Position:
 * Senior Software Engineer (2016 - 2017)
 
@@ -56,12 +56,17 @@ Software Engineer, Developer, Go enthusiast (Gopher).
 > At Shift I worked in a remote team (from Georgia). I started using Go and learned a lot. I also worked on Salesforce (Apex). My Responsibilities included: Automation of company’s internal business processes, Code Review.
 
 ## ITDC
-> http://itdc.ge
-#### Positions
-* Team Lead / Developer (2011 - 2016)
-* Trainer (2012 - 2016)
-* Senior Developer (2008 - 2011)
-* Developer (2006 - 2008)
+> ITDC (http://itdc.ge) is a group of professional programmers, designers, and IT experts. ITDC works on the IT market since 2001 and is specialized on three main sectors.
+
+> * Development of corporate websites, informational portals and online markets, their hosting, technical support, advancement, and promotion;
+> * Development of informational systems and special software products in order to simplify or automate various business processes;
+> * IT consulting – planning, management, and audition of various types and difficulties of IT projects. Elaboration of IT development strategy formations and recommendations.
+
+> #### Positions
+> * Team Lead / Developer (2011 - 2016)
+> * Trainer (2012 - 2016)
+> * Senior Developer (2008 - 2011)
+> * Developer (2006 - 2008)
 
 > #### At ITDC I gained most of my experience
 > As you can see I've spent 10 years working at ITDC. When I started team was just 5-6 people (including founders). In 10 years company had grown to have more than 60 employees and I consider myself as one of the key employees who help the company grow.
@@ -77,12 +82,13 @@ Software Engineer, Developer, Go enthusiast (Gopher).
 > Here I started to sharing the knowledge by establishing ITDC Training Center and it was one of our major sources for finding new developers. The idea and the execution of the training center was mine and it was quite successful.
 
 ## GeoDNA
-> http://oceandna.ge
-#### Position
-* Data Manager / Programmer / Server Admin (2006 - Present)
+> Designated National Agency (http://oceandna.ge) operates within the Centre of Relations with UNESCO of the Ivane Javakhishvili Tbilisi State University.
+
+> #### Position
+> * Data Manager / Programmer / Server Admin (2006 - Present)
 
 > #### Travel and lots of friends all over Europe
-> Designated National Agency operates within the Centre of Relations with UNESCO of the Ivane Javakhishvili Tbilisi State University. Here we are involved in several international projects, such as: SeaDataNet, EMODNET, PERSEUS etc.
+> Here we are involved in several international projects, such as: SeaDataNet, EMODNET, PERSEUS etc.
 
 > Most of projects aim to gather and disseminate oceanographic data. GeoDNA's missions are to collect, acquire, process, store and disseminate the marine data and metadata sampled by Georgian institutes and agencies, as well as to provide graduate level education in marine sciences.
 
