@@ -1,8 +1,8 @@
 +++
 title = "About Me"
 slug = "about"
-thumbnail = "images/tn.png"
-description = "about Tornike Razmadze "
+thumbnail = "images/avatar.png"
+description = "About Tornike Razmadze"
 +++
 
 Software Engineer, Developer, Go enthusiast (Gopher).
