@@ -1,6 +1,7 @@
 +++
 date = "2016-05-06"
 title = "Machine Learning (Coursera)"
+thumbnail = "images/avatar.jpg"
 tags = [
     "machine learning",
     "coursera",

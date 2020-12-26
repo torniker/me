@@ -1,7 +1,7 @@
 +++
 title = "About Me"
 slug = "about"
-thumbnail = "images/avatar.png"
+thumbnail = "images/avatar.jpg"
 description = "About Tornike Razmadze"
 +++
 

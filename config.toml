@@ -44,6 +44,11 @@ googleAnalytics = "UA-4951070-18"
     name = "LinkedIn"
     weight = 3
     url = "https://www.linkedin.com/in/torniker/"
+[[params.social]]
+    name = "Codersrank"
+    weight = 4
+    url = "https://profile.codersrank.io/user/torniker"
+
 
 
 [languages]
