@@ -11,7 +11,7 @@ Software Engineer, Developer, Go enthusiast (Gopher).
 
 > My first computer was IBM XT 286. I was seven when we got one. After that moment I wanted to know everything about computers. My father did some coding back then and I was sitting next to him watching all those strange combinations of "words" and symbols and I knew that I wanted to learn it. From that moment I am learning...
 
-#### Worked on More Then 200 Projects
+#### Wide Range of Projects
 
 > I've Worked in several web development companies. Created couple custom made content management systems and worked with open source ones. Grown from working on simple projects by myself to being a team leader in the biggest web development company in Georgia.
 
@@ -20,7 +20,7 @@ Software Engineer, Developer, Go enthusiast (Gopher).
 ### Nexus Group Enterprises
 > Nexus Group Enterprises NV’ manages digital currency casino brand http://fortunejack.com; FortuneJack was established in 2014 and nowadays represents one of the leading gaming brands in the industry of Bitcoin gaming across the Globe
 #### Positions
-* Head of ITBO (2019 - present)
+* Head of ITBO (2019 - Present)
 * Head of Development (2018 - 2019)
 
 > #### Despite my position I still write code
@@ -85,7 +85,7 @@ Software Engineer, Developer, Go enthusiast (Gopher).
 > Designated National Agency (http://oceandna.ge) operates within the Centre of Relations with UNESCO of the Ivane Javakhishvili Tbilisi State University.
 
 > #### Position
-> * Data Manager / Programmer / Server Admin (2006 - Present)
+> * Data Manager / Programmer / Server Admin (2006 - 2022)
 
 > #### Travel and lots of friends all over Europe
 > Here we are involved in several international projects, such as: SeaDataNet, EMODNET, PERSEUS etc.
