@@ -1,13 +1,13 @@
 +++
-title = "About Me"
+title = "Tornike Razmadze"
 slug = "about"
 thumbnail = "images/avatar.jpg"
 description = "About Tornike Razmadze"
 +++
 
-Software Engineer, Developer, Go enthusiast (Gopher).
+Software Architect, Engineer, Developer, Go enthusiast (Gopher).
 
-#### More Then 15 Years of Working Experience
+#### 20+ Years of Working Experience
 
 > My first computer was IBM XT 286. I was seven when we got one. After that moment I wanted to know everything about computers. My father did some coding back then and I was sitting next to him watching all those strange combinations of "words" and symbols and I knew that I wanted to learn it. From that moment I am learning...
 
@@ -17,33 +17,32 @@ Software Engineer, Developer, Go enthusiast (Gopher).
 
 ## Work Experience
 
-### Nexus Group Enterprises
-> Nexus Group Enterprises NV’ manages digital currency casino brand http://fortunejack.com; FortuneJack was established in 2014 and nowadays represents one of the leading gaming brands in the industry of Bitcoin gaming across the Globe
+### SkyGroup
+> SkyGroup manages digital currency casino brand http://fortunejack.com; FortuneJack was established in 2014 and nowadays represents one of the leading gaming brands in the industry of Bitcoin gaming across the Globe
 #### Positions
-* Head of ITBO (2019 - Present)
-* Head of Development (2018 - 2019)
+* Principal Architect / Lead Engineer  (2018 - Present)
 
-> #### Despite my position I still write code
-> I write code 3-4 hours a day. Mostly I work on project architecture, after the project is on the right tracks I gradually move to just reviewing code, but I write code for most of new projects to get it to MVP.
+> I write code 3-4 hours a day. Mostly I work on project architecture, after the project is on the right tracks I gradually move to just reviewing code.
 
-> I Manage team of 20 members mostly developers, including frontend, backend and database developers.
+> I Manage team of 20 members mostly software engineers, including frontend, backend and data engineers.
 
 > Things I've done / am doing:
 
-> * Started using agile methodologies specifically SCRUM to manage the tasks and work timeline
+> * Started using agile methodologies
 > * Introduced Go as a primary development language
 > * Implemented CI/CD on verity of projects
-> * Introduced code reviews (I do it myself daily)
+> * Introduced code reviews
+> * Rewrote all code base on Go (golang)
+> * Moved everything to Kubernetes
 
 ## MyDoc
 > MyDoc.chat (https://mydoc.chat) is an Integrated Platform with Artificial Intelligence (AI) capabilities that enables patients to digitally communicate with Medical Doctors.
 #### Position:
-* CTO / Co-Founder (2017 - Present)
+* Senior Software Engineer / Software Architect / Co-Founder (2017 - Present)
 
-> #### CTO and the only technical person
-> I've started this company with my friends. The position may be confusing, I was the CTO of the company and the only technical person during the first year.
+> I've started this company with my friends.
 
-> I've created the prototype of the product. I worked on everything from design to database architecture. I had to make all the technical decision and I chose to use Go as primary language.
+> I've created the prototype of the product. I've worked on everything from design to database architecture. I had to make all the technical decision.
 
 > After a year we managed to get first developer and my responsibilities changed a bit. But till this day I do code reviews, work with development team closely on defining task and deciding right technical solutions.
 
@@ -52,23 +51,18 @@ Software Engineer, Developer, Go enthusiast (Gopher).
 #### Position:
 * Senior Software Engineer (2016 - 2017)
 
-> #### Place where I studied a lot
 > At Shift I worked in a remote team (from Georgia). I started using Go and learned a lot. I also worked on Salesforce (Apex). My Responsibilities included: Automation of company’s internal business processes, Code Review.
 
 ## ITDC
 > ITDC (http://itdc.ge) is a group of professional programmers, designers, and IT experts. ITDC works on the IT market since 2001 and is specialized on three main sectors.
 
-> * Development of corporate websites, informational portals and online markets, their hosting, technical support, advancement, and promotion;
-> * Development of informational systems and special software products in order to simplify or automate various business processes;
-> * IT consulting – planning, management, and audition of various types and difficulties of IT projects. Elaboration of IT development strategy formations and recommendations.
+* Development of corporate websites, informational portals and online markets, their hosting, technical support, advancement, and promotion;
+* Development of informational systems and special software products in order to simplify or automate various business processes;
+* IT consulting – planning, management, and audition of various types and difficulties of IT projects. Elaboration of IT development strategy formations and recommendations.
 
-> #### Positions
-> * Team Lead / Developer (2011 - 2016)
-> * Trainer (2012 - 2016)
-> * Senior Developer (2008 - 2011)
-> * Developer (2006 - 2008)
+#### Positions
+* Team Lead (2011 - 2016) | Trainer (2012 - 2016) | Senior Developer (2008 - 2011) | Developer (2006 - 2008)
 
-> #### At ITDC I gained most of my experience
 > As you can see I've spent 10 years working at ITDC. When I started team was just 5-6 people (including founders). In 10 years company had grown to have more than 60 employees and I consider myself as one of the key employees who help the company grow.
 
 > At ITDC we had lots of different types of web projects, starting from a small blog up to portal for the parliament of Georgia, or all the websites of embassies of Georgia in different countries.
@@ -84,10 +78,9 @@ Software Engineer, Developer, Go enthusiast (Gopher).
 ## GeoDNA
 > Designated National Agency (http://oceandna.ge) operates within the Centre of Relations with UNESCO of the Ivane Javakhishvili Tbilisi State University.
 
-> #### Position
-> * Data Manager / Programmer / Server Admin (2006 - 2022)
+#### Position
+* Data Manager / Programmer / Server Admin (2006 - 2022)
 
-> #### Travel and lots of friends all over Europe
 > Here we are involved in several international projects, such as: SeaDataNet, EMODNET, PERSEUS etc.
 
 > Most of projects aim to gather and disseminate oceanographic data. GeoDNA's missions are to collect, acquire, process, store and disseminate the marine data and metadata sampled by Georgian institutes and agencies, as well as to provide graduate level education in marine sciences.
@@ -96,18 +89,20 @@ Software Engineer, Developer, Go enthusiast (Gopher).
 
 ## Education
 
-> ### Ilia State University
-> Master’s degree studies in Calculus Mathematics and Informatics (2009 - 2012)
+### Ilia State University
+Master’s degree studies in Calculus Mathematics and Informatics (2009 - 2012)
 
-> ### Iv. Javakhishvili Tbilisi State University
-> Bachelor’s Degree in Applied Mathematics and Computer Sciences (2003 - 2008)
+### Iv. Javakhishvili Tbilisi State University
+Bachelor’s Degree in Applied Mathematics and Computer Sciences (2003 - 2008)
 
 ## Software Engineering
 
 > Go (golang),
 > Docker,
+> Kubernetes,
 > JavaScript,
 > Vue.js,
+> Svelte,
 > Node.js,
 > PHP,
 > Laravel,

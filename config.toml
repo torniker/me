@@ -6,9 +6,9 @@ googleAnalytics = "UA-4951070-18"
 
 [params]
     author = "Tornike Razmadze"
-    description = "Software Engineer, Developer, Go (golang) enthusiast"
+    description = "Software Architect, Engineer, Developer, Go (golang) enthusiast"
     keywords = "blog,developer,personal,gopher,software,engineer,go,golang"
-    info = "Software Engineer, Developer, Go (golang) enthusiast"
+    info = "Software Architect, Engineer, Developer, Go (golang) enthusiast"
     avatarurl = "images/avatar.jpg"
     footercontent = "Enter a text here."
     # fixedbarContent = "Do you want to know me more private?→"
@@ -56,7 +56,7 @@ googleAnalytics = "UA-4951070-18"
         # You can configure the theme parameter for each language.
         [languages.en.params]
             author = "Tornike Razmadze"
-            description = "Software Engineer, Developer, Go (golang) enthusiast"
+            description = "Software Achitect, Engineer, Developer, Go (golang) enthusiast"
             keywords = "blog,developer,personal,gopher,software,engineer,go,golang"
             info = "Software Engineer - Gopher"
             avatarurl = "images/avatar.jpg"
